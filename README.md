@@ -3,7 +3,7 @@
 ## Description
 Assessing solar energy potential of building roofs, evaluating solar panel suitability and associated benefits
 
-Technologies: Python, NumPy, pandas, geopy, PyTorch, arcGIS API, Google OR Tools
+Technologies: Python, NumPy, pandas, geopy, PyTorch, ArcGIS API, Google OR Tools
 
 ## Process
 - Compute optimal path for volunteers to congregate at a convenient public location (park), travel to pertinent locations and return
